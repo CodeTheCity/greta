@@ -12,8 +12,7 @@ data = mydb["data"]
 def get_all_ids():
     location_id = data.distinct("location_id")
     return location_id
-    
-    
+        
 def get_all_coordinates():
     all_ids = get_all_ids()
     arry = []
