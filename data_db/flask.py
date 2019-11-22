@@ -22,12 +22,6 @@ def get_all_coordinates():
                             {"location_id":"true", "latitude": "true", "longitude":"true" }))
     return arry
 
-
-
-@app.route('/1')
-def ha():
-    return render_template('map.html')
-        
 @app.route('/info', methods=['GET'])
 def get_all_points():
     get_raw_points = get_all_coordinates()
