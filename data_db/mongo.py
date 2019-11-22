@@ -34,8 +34,7 @@ def query_a_time_period(x,y):
 
 def removedb():
     myclient.drop_database('mydb')
-    
-    
+       
 def get_all_ids():
     location_id = data.distinct("location_id")
     return location_id
