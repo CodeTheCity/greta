@@ -61,25 +61,17 @@ def correction():
             doc["P2"] = str( 0 - float(doc["P2"]))  
             print (doc)
     
-        
-        
-def print_collection_data(collection):
-    
-    cursor = mydb[collection].find()
-    result = list(cursor)
-    pprint.pprint(result)
-    
 def main():   
     
     start_time  = "1530857160"
     finish_time = "1530870160"
-    removedb()
+    #removedb()
     pushdata() 
     
     #get_all_ids()
-    #get_all_coordinates()
+    get_all_coordinates()
     
-    correction()
+    #correction()
     #print_collection_data("corrected_data")
     
     #query_a_time_period(start_time,finish_time)
