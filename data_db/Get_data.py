@@ -215,7 +215,7 @@ def tidy_values(our_list):
             if (option in reading):
                 if (reading[option]):
                     new_dict[location_id]['readings'][timestamp].update({
-                        'timestamp': (timestamp),
+                        'timestamp': int(timestamp),
                         option: float(reading[option]),
                     })
     return(new_dict)
