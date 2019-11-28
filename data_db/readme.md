@@ -24,7 +24,7 @@ The (3)info collection is composed of small documents for each sensor:
 
 
 
-The (2) correction collection to remove or change (from (1)raw to (2)) some of the sensors data that is stuck on constantly 
+The (2) correction collection is to remove or change (from (1)raw to (2)) some of the sensors data that is stuck on constantly 
 high humidity and unaccurate data. It has the same structure as (1).
 
 
