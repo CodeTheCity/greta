@@ -11,8 +11,7 @@ https://drive.google.com/drive/folders/18n1E2iBzcagheMBk0vGSkLnD6iBfxCvh?usp=sha
 3 Collections ( (1)raw , (2)correction(corrected raw) , (3)info - general info for each sensor)
 
 As mongodb does not allow document with size >16 mb , and our document size is 12 mb for each sensor,
-having a huge reading list for each sensor can cause problems. 
-Thats why:
+having a huge reading list for each sensor can cause problems, the solution for scaling is:
 
 The (1)raw collection is composed of small documents - for each timestamp and location_id :
 
@@ -32,4 +31,4 @@ The  sensor raw collection will be sorted in the db by their location_id and tim
 
 
 
-if you run get_data.py , keep big_dump's folders empty, no checking for extra files.
+if you run get_data.py , keep big_dump's csv folder empty...old and parcedJson with only json files , no checking for extra files.
