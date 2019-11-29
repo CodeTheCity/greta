@@ -10,8 +10,9 @@ https://drive.google.com/drive/folders/18n1E2iBzcagheMBk0vGSkLnD6iBfxCvh?usp=sha
 
 3 Collections ( (1)raw , (2)correction(corrected raw) , (3)info - general info for each sensor)
 
-As mongodb does not allow document with size >16 mb , and our document size is 12 mb for each sensor,
-having a huge reading list for each sensor can cause problems, the solution for scaling is:
+As mongodb does not allow documents with a size >16 mb , and our document size is 12 mb for each sensor,
+having a huge readings list for each sensor is not an optimal solution, and its a question of time when the limit is hit,
+which will cause problems to add new readings to the existing document in the future, the solution for scaling is:
 
 The (1)raw collection is composed of small documents - for each timestamp and location_id :
 
