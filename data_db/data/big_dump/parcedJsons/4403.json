@@ -1,0 +1,1534 @@
+[
+    {
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.5,
+        "timestamp": 1574529480
+    },
+    {
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574534160
+    },
+    {
+        "P1": 37.77,
+        "P2": 16.83,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574535240
+    },
+    {
+        "P1": 39.13,
+        "P2": 14.97,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574541720
+    },
+    {
+        "P1": 31.2,
+        "P2": 13.7,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.5,
+        "timestamp": 1574542800
+    },
+    {
+        "P1": 34.33,
+        "P2": 13.83,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574543160
+    },
+    {
+        "P1": 24.87,
+        "P2": 12.77,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574543520
+    },
+    {
+        "P1": 31.03,
+        "P2": 13.3,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574545320
+    },
+    {
+        "P1": 45.97,
+        "P2": 19.13,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574546400
+    },
+    {
+        "P1": 40.3,
+        "P2": 15.5,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574548200
+    },
+    {
+        "P1": 53.67,
+        "P2": 19.4,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574551080
+    },
+    {
+        "P1": 33.77,
+        "P2": 16.2,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.5,
+        "timestamp": 1574553600
+    },
+    {
+        "P1": 32.4,
+        "P2": 15.33,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.5,
+        "timestamp": 1574555040
+    },
+    {
+        "P1": 34.2,
+        "P2": 14.23,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574555400
+    },
+    {
+        "P1": 27.23,
+        "P2": 13.67,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574555760
+    },
+    {
+        "P1": 47.23,
+        "P2": 18.13,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574556120
+    },
+    {
+        "P1": 31.47,
+        "P2": 14.27,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574556480
+    },
+    {
+        "P1": 36.27,
+        "P2": 13.97,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.5,
+        "timestamp": 1574556840
+    },
+    {
+        "P1": 40.1,
+        "P2": 17.2,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574557200
+    },
+    {
+        "P1": 30.67,
+        "P2": 14.47,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574557560
+    },
+    {
+        "P1": 34.77,
+        "P2": 15.5,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574557920
+    },
+    {
+        "P1": 27.0,
+        "P2": 13.6,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574558280
+    },
+    {
+        "P1": 29.53,
+        "P2": 13.4,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574558640
+    },
+    {
+        "P1": 33.97,
+        "P2": 15.03,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574559000
+    },
+    {
+        "P1": 29.3,
+        "P2": 13.1,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574559360
+    },
+    {
+        "P1": 39.6,
+        "P2": 17.27,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574559720
+    },
+    {
+        "P1": 33.7,
+        "P2": 15.4,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574560080
+    },
+    {
+        "P1": 36.43,
+        "P2": 16.0,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574560440
+    },
+    {
+        "P1": 39.37,
+        "P2": 15.17,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574560800
+    },
+    {
+        "P1": 41.87,
+        "P2": 17.17,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574561160
+    },
+    {
+        "P1": 41.97,
+        "P2": 17.6,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574561520
+    },
+    {
+        "P1": 31.23,
+        "P2": 14.1,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574561880
+    },
+    {
+        "P1": 42.07,
+        "P2": 16.1,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574562240
+    },
+    {
+        "P1": 49.4,
+        "P2": 18.33,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574562600
+    },
+    {
+        "P1": 32.9,
+        "P2": 14.4,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574562960
+    },
+    {
+        "P1": 36.8,
+        "P2": 15.97,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574563320
+    },
+    {
+        "P1": 29.0,
+        "P2": 13.23,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574563680
+    },
+    {
+        "P1": 38.27,
+        "P2": 15.57,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574564040
+    },
+    {
+        "P1": 34.17,
+        "P2": 14.5,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574564400
+    },
+    {
+        "P1": 37.17,
+        "P2": 14.57,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574564760
+    },
+    {
+        "P1": 32.53,
+        "P2": 14.2,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574565120
+    },
+    {
+        "P1": 34.27,
+        "P2": 15.47,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574565480
+    },
+    {
+        "P1": 47.03,
+        "P2": 17.13,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574565840
+    },
+    {
+        "P1": 52.9,
+        "P2": 19.37,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574566200
+    },
+    {
+        "P1": 43.87,
+        "P2": 17.37,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574566560
+    },
+    {
+        "P1": 52.53,
+        "P2": 18.4,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574566920
+    },
+    {
+        "P1": 40.43,
+        "P2": 16.2,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574567280
+    },
+    {
+        "P1": 46.53,
+        "P2": 17.23,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574567640
+    },
+    {
+        "P1": 28.37,
+        "P2": 14.7,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574568000
+    },
+    {
+        "P1": 33.87,
+        "P2": 15.1,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574568360
+    },
+    {
+        "P1": 30.83,
+        "P2": 13.87,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574568720
+    },
+    {
+        "P1": 49.27,
+        "P2": 18.9,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574569080
+    },
+    {
+        "P1": 33.67,
+        "P2": 15.23,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574569440
+    },
+    {
+        "P1": 36.97,
+        "P2": 14.67,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574569800
+    },
+    {
+        "P1": 35.17,
+        "P2": 16.9,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574570160
+    },
+    {
+        "P1": 32.97,
+        "P2": 13.57,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574571240
+    },
+    {
+        "P1": 46.7,
+        "P2": 16.23,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574571960
+    },
+    {
+        "P1": 25.87,
+        "P2": 12.6,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574572320
+    },
+    {
+        "P1": 29.37,
+        "P2": 13.43,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574572680
+    },
+    {
+        "P1": 29.37,
+        "P2": 12.87,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574573040
+    },
+    {
+        "P1": 51.17,
+        "P2": 18.63,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574573400
+    },
+    {
+        "P1": 47.13,
+        "P2": 18.17,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574573760
+    },
+    {
+        "P1": 48.43,
+        "P2": 16.6,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574574120
+    },
+    {
+        "P1": 31.03,
+        "P2": 14.03,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.2,
+        "timestamp": 1574574480
+    },
+    {
+        "P1": 46.2,
+        "P2": 18.0,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574574840
+    },
+    {
+        "P1": 36.9,
+        "P2": 16.53,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574575200
+    },
+    {
+        "P1": 43.2,
+        "P2": 16.73,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574575560
+    },
+    {
+        "P1": 28.37,
+        "P2": 13.9,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574575920
+    },
+    {
+        "P1": 24.93,
+        "P2": 12.83,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574576280
+    },
+    {
+        "P1": 33.33,
+        "P2": 15.5,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.5,
+        "timestamp": 1574576640
+    },
+    {
+        "P1": 31.73,
+        "P2": 13.7,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574577000
+    },
+    {
+        "P1": 26.43,
+        "P2": 13.53,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.5,
+        "timestamp": 1574577360
+    },
+    {
+        "P1": 37.43,
+        "P2": 17.0,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574577720
+    },
+    {
+        "P1": 25.43,
+        "P2": 14.23,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574578080
+    },
+    {
+        "P1": 47.43,
+        "P2": 16.87,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574578440
+    },
+    {
+        "P1": 36.6,
+        "P2": 15.87,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.3,
+        "timestamp": 1574578800
+    },
+    {
+        "P1": 32.07,
+        "P2": 15.47,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574579160
+    },
+    {
+        "P1": 23.23,
+        "P2": 13.07,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574579520
+    },
+    {
+        "P1": 27.33,
+        "P2": 13.4,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574579880
+    },
+    {
+        "P1": 32.63,
+        "P2": 15.17,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574580240
+    },
+    {
+        "P1": 33.07,
+        "P2": 13.43,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574580600
+    },
+    {
+        "P1": 27.7,
+        "P2": 13.73,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574580960
+    },
+    {
+        "P1": 27.77,
+        "P2": 13.67,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574581320
+    },
+    {
+        "P1": 23.2,
+        "P2": 13.5,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574581680
+    },
+    {
+        "P1": 40.57,
+        "P2": 15.83,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.5,
+        "timestamp": 1574582040
+    },
+    {
+        "P1": 25.37,
+        "P2": 12.63,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.4,
+        "timestamp": 1574582400
+    },
+    {
+        "P1": 27.9,
+        "P2": 12.97,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574582760
+    },
+    {
+        "P1": 27.73,
+        "P2": 14.47,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574583120
+    },
+    {
+        "P1": 31.23,
+        "P2": 15.1,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.5,
+        "timestamp": 1574583480
+    },
+    {
+        "P1": 29.5,
+        "P2": 13.73,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574583840
+    },
+    {
+        "P1": 21.7,
+        "P2": 11.8,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574584200
+    },
+    {
+        "P1": 45.63,
+        "P2": 16.77,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574584560
+    },
+    {
+        "P1": 30.63,
+        "P2": 12.17,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574584920
+    },
+    {
+        "P1": 24.57,
+        "P2": 11.1,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574585280
+    },
+    {
+        "P1": 27.83,
+        "P2": 11.53,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574585640
+    },
+    {
+        "P1": 26.43,
+        "P2": 11.63,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574586000
+    },
+    {
+        "P1": 23.0,
+        "P2": 11.1,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574586360
+    },
+    {
+        "P1": 29.0,
+        "P2": 12.53,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574586720
+    },
+    {
+        "P1": 39.13,
+        "P2": 16.33,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574587080
+    },
+    {
+        "P1": 26.57,
+        "P2": 11.47,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574587440
+    },
+    {
+        "P1": 25.6,
+        "P2": 13.63,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574587800
+    },
+    {
+        "P1": 36.23,
+        "P2": 14.4,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574588160
+    },
+    {
+        "P1": 24.2,
+        "P2": 11.43,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574588520
+    },
+    {
+        "P1": 29.87,
+        "P2": 13.6,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574588880
+    },
+    {
+        "P1": 19.27,
+        "P2": 10.87,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574589240
+    },
+    {
+        "P1": 31.77,
+        "P2": 13.1,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574589600
+    },
+    {
+        "P1": 32.0,
+        "P2": 13.93,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574589960
+    },
+    {
+        "P1": 33.73,
+        "P2": 12.33,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574590320
+    },
+    {
+        "P1": 27.73,
+        "P2": 12.8,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574590680
+    },
+    {
+        "P1": 27.27,
+        "P2": 11.83,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574591040
+    },
+    {
+        "P1": 36.13,
+        "P2": 16.73,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574591400
+    },
+    {
+        "P1": 28.63,
+        "P2": 12.97,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574591760
+    },
+    {
+        "P1": 28.03,
+        "P2": 12.73,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574592120
+    },
+    {
+        "P1": 28.53,
+        "P2": 12.17,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574592480
+    },
+    {
+        "P1": 20.93,
+        "P2": 10.6,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574592840
+    },
+    {
+        "P1": 22.13,
+        "P2": 11.7,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574593200
+    },
+    {
+        "P1": 23.17,
+        "P2": 11.97,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574593560
+    },
+    {
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574593920
+    },
+    {
+        "P1": 27.93,
+        "P2": 13.07,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574594280
+    },
+    {
+        "P1": 25.4,
+        "P2": 12.7,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574595000
+    },
+    {
+        "P1": 24.73,
+        "P2": 15.27,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574595360
+    },
+    {
+        "P1": 33.3,
+        "P2": 15.97,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574596800
+    },
+    {
+        "P1": 21.7,
+        "P2": 11.27,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574597160
+    },
+    {
+        "P1": 17.2,
+        "P2": 10.07,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574598600
+    },
+    {
+        "P1": 19.77,
+        "P2": 10.0,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574598960
+    },
+    {
+        "P1": 17.53,
+        "P2": 11.03,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574599320
+    },
+    {
+        "P1": 18.57,
+        "P2": 10.6,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574599680
+    },
+    {
+        "P1": 25.43,
+        "P2": 10.63,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574600040
+    },
+    {
+        "P1": 21.6,
+        "P2": 10.47,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574600400
+    },
+    {
+        "P1": 18.73,
+        "P2": 10.3,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574600760
+    },
+    {
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574604360
+    },
+    {
+        "P1": 20.4,
+        "P2": 9.67,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574606160
+    },
+    {
+        "P1": 14.53,
+        "P2": 8.7,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574606520
+    },
+    {
+        "P1": 25.53,
+        "P2": 10.43,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574606880
+    },
+    {
+        "P1": 26.6,
+        "P2": 13.8,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574607240
+    },
+    {
+        "P1": 17.87,
+        "P2": 8.87,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574607600
+    },
+    {
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574607960
+    },
+    {
+        "P1": 19.13,
+        "P2": 9.53,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574608320
+    },
+    {
+        "P1": 15.6,
+        "P2": 9.3,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574608680
+    },
+    {
+        "P1": 19.67,
+        "P2": 12.4,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574609040
+    },
+    {
+        "P1": 15.43,
+        "P2": 10.97,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574609400
+    },
+    {
+        "P1": 21.27,
+        "P2": 12.0,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 11.0,
+        "timestamp": 1574609760
+    },
+    {
+        "P1": 17.23,
+        "P2": 10.6,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 11.0,
+        "timestamp": 1574610120
+    },
+    {
+        "P1": 18.13,
+        "P2": 11.8,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574610480
+    },
+    {
+        "P1": 19.03,
+        "P2": 11.5,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574610840
+    },
+    {
+        "P1": 19.2,
+        "P2": 11.2,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574611200
+    },
+    {
+        "P1": 20.67,
+        "P2": 10.97,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 11.0,
+        "timestamp": 1574611920
+    },
+    {
+        "P1": 19.3,
+        "P2": 11.8,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 11.0,
+        "timestamp": 1574612280
+    },
+    {
+        "P1": 21.9,
+        "P2": 11.43,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574612640
+    },
+    {
+        "P1": 22.4,
+        "P2": 11.47,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574613000
+    },
+    {
+        "P1": 15.23,
+        "P2": 10.4,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574613360
+    },
+    {
+        "P1": 19.47,
+        "P2": 10.8,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 11.0,
+        "timestamp": 1574613720
+    },
+    {
+        "P1": 25.43,
+        "P2": 11.83,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 11.0,
+        "timestamp": 1574614080
+    },
+    {
+        "P1": 19.9,
+        "P2": 11.03,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 11.0,
+        "timestamp": 1574614440
+    },
+    {
+        "P1": 23.73,
+        "P2": 12.53,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 11.0,
+        "timestamp": 1574614800
+    },
+    {
+        "P1": 20.3,
+        "P2": 11.3,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574615160
+    },
+    {
+        "P1": 16.87,
+        "P2": 10.93,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574615520
+    },
+    {
+        "P1": 18.53,
+        "P2": 11.63,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574615880
+    },
+    {
+        "P1": 15.43,
+        "P2": 10.2,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574616240
+    },
+    {
+        "P1": 17.6,
+        "P2": 11.33,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 11.0,
+        "timestamp": 1574616600
+    },
+    {
+        "P1": 22.97,
+        "P2": 12.83,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574617320
+    },
+    {
+        "P1": 22.37,
+        "P2": 12.27,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574617680
+    },
+    {
+        "P1": 22.27,
+        "P2": 12.93,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574618040
+    },
+    {
+        "P1": 17.93,
+        "P2": 12.8,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574618400
+    },
+    {
+        "P1": 17.73,
+        "P2": 11.47,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574618760
+    },
+    {
+        "P1": 21.17,
+        "P2": 11.2,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574619120
+    },
+    {
+        "P1": 31.1,
+        "P2": 14.73,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574619480
+    },
+    {
+        "P1": 25.2,
+        "P2": 12.67,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574619840
+    },
+    {
+        "P1": 19.4,
+        "P2": 11.8,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 11.0,
+        "timestamp": 1574620200
+    },
+    {
+        "P1": 19.27,
+        "P2": 11.7,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574620560
+    },
+    {
+        "P1": 16.3,
+        "P2": 10.23,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574620920
+    },
+    {
+        "P1": 15.43,
+        "P2": 10.8,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574621280
+    },
+    {
+        "P1": 20.53,
+        "P2": 12.57,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574621640
+    },
+    {
+        "P1": 18.53,
+        "P2": 11.27,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574622000
+    },
+    {
+        "P1": 20.17,
+        "P2": 10.5,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574622720
+    },
+    {
+        "P1": 14.57,
+        "P2": 9.57,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574623080
+    },
+    {
+        "P1": 15.77,
+        "P2": 9.6,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574623440
+    },
+    {
+        "P1": 15.13,
+        "P2": 8.9,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574623800
+    },
+    {
+        "P1": 15.47,
+        "P2": 10.3,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574624160
+    },
+    {
+        "P1": 19.87,
+        "P2": 10.4,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574624880
+    },
+    {
+        "P1": 19.53,
+        "P2": 11.33,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574625240
+    },
+    {
+        "P1": 17.63,
+        "P2": 11.67,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574625600
+    },
+    {
+        "P1": 20.67,
+        "P2": 12.4,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574625960
+    },
+    {
+        "P1": 20.07,
+        "P2": 12.27,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574626320
+    },
+    {
+        "P1": 27.3,
+        "P2": 16.83,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574626680
+    },
+    {
+        "P1": 19.43,
+        "P2": 11.87,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574627040
+    },
+    {
+        "P1": 16.6,
+        "P2": 11.13,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.9,
+        "timestamp": 1574627400
+    },
+    {
+        "P1": 18.17,
+        "P2": 12.9,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.8,
+        "timestamp": 1574628840
+    },
+    {
+        "P1": 17.2,
+        "P2": 11.87,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.7,
+        "timestamp": 1574629560
+    },
+    {
+        "P1": 16.37,
+        "P2": 11.4,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574630280
+    },
+    {
+        "P1": 16.67,
+        "P2": 11.3,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.5,
+        "timestamp": 1574631000
+    },
+    {
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 10.6,
+        "timestamp": 1574632440
+    },
+    {
+        "P1": 15.8,
+        "P2": 9.43,
+        "humidity": 99.9,
+        "id": "4403",
+        "temperature": 11.0,
+        "timestamp": 1574639640
+    }
+]
